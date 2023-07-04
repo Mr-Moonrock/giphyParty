@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+h1 {
+    color: #00dfc4;;
+}
+
+#userInput {
+    background-color: black ;
+    color: #00dfc4;;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    border-color: white;
+}
+
+#removeBtn, #submitBtn{
+    background-color: black ;
+    color: #00dfc4;;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    border-color: white;
+}
+
+ 
